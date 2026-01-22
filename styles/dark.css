@@ -12,6 +12,6 @@
   --text-color: #F1B2CE;
 }
 
-  .theme-dark .decorative-element {
-    display: flex;
-  }
+.theme-dark .decorative-element {
+  display: flex;
+}

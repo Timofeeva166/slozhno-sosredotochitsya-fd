@@ -13,8 +13,8 @@
 }
 
 .theme-light .decorative--element {
-    display: none;
-  }
+  display: none;
+}
 
 
 @media (prefers-color-scheme: light) {
