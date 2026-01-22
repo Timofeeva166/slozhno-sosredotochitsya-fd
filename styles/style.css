@@ -125,6 +125,8 @@
 }
 
 .header__intro {
+  display: flex;
+  flex-direction: column;
   justify-self: end;
   align-self: center;
   color: var(--answer-title-color);
