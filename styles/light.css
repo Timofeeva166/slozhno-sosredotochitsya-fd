@@ -4,26 +4,35 @@
   --font-family: 'IBM Plex mono';
   --title-color: #FFC2E6;
   --accent-color: #FF8DCB;
+  --accent-color-large-monitor: #FF0070;
   --button-text-color: #353430;
-  --button-outline-color: #353430;
+  --topic-title-color: #353430;
   --answer-title-color: #353430;
   --answer-title-bg-color: #FF8DCB;
-  --topic-title-color: #353430;
   --text-color: #353430;
 }
+
+.theme-light .decorative--element {
+    display: none;
+  }
+
 
 @media (prefers-color-scheme: light) {
   :root {
     --background-image: url('../images/cover-image-light.png');
-    --background-color: #FFF1F7;
-    --font-family: 'IBM Plex mono';
-    --title-color: #FFC2E6;
-    --accent-color: #FF8DCB;
-    --button-text-color: #353430;
-    --button-outline-color: #353430;
-    --answer-title-color: #353430;
-    --answer-title-bg-color: #FF8DCB;
-    --topic-title-color: #353430;
-    --text-color: #353430;
+  --background-color: #FFF1F7;
+  --font-family: 'IBM Plex mono';
+  --title-color: #FFC2E6;
+  --accent-color: #FF8DCB;
+  --accent-color-large-monitor: #FF0070;
+  --button-text-color: #353430;
+  --topic-title-color: #353430;
+  --answer-title-color: #353430;
+  --answer-title-bg-color: #FF8DCB;
+  --text-color: #353430;
+  }
+
+  .decorative-element {
+    display: none;
   }
 } 

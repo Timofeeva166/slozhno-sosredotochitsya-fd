@@ -4,9 +4,10 @@
   --font-family: 'IBM Plex mono';
   --title-color: #DB00FF;
   --accent-color: #FF0070;
+  --accent-color-large-monitor: #FF0070;
   --button-text-color: #FF0070;
+  --topic-title-color: #FF0070;
   --answer-title-color: #000028;
   --answer-title-bg-color: #FF0070;
-  --topic-title-color: #FF0070;
   --text-color: #F1B2CE;
 }
