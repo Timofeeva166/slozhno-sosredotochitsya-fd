@@ -1,7 +1,6 @@
 :root.theme-dark {
   --background-image: url('../images/cover-image-dark.png');
   --background-color: #000028;
-  --font-family: 'IBM Plex mono';
   --title-color: #DB00FF;
   --accent-color: #FF0070;
   --accent-color-large-monitor: #FF0070;
